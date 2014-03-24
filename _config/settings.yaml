@@ -13,7 +13,7 @@
 ###########################################################################################
 
 # Enter your license key
-_license_key:
+_license_key: 6c9a3d85-26b3-4122-8d64-120a6b817c3b
 
 _language: en
 
@@ -21,7 +21,7 @@ _language: en
 _site_root: /
 
 # Name of your site
-_site_name: Another Awesome Statamic Site
+_site_name: Detour Writer's Guide
 
 # Change the folder name for your content directory
 _content_root: _content
